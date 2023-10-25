@@ -146,7 +146,7 @@
     "element-ui": "^2.5.4",
     "forever-monitor": "^1.7.1",
     "i18next": "^15.0.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "parse-torrent": "^6.1.2",
     "svg-innerhtml": "^1.1.0",
